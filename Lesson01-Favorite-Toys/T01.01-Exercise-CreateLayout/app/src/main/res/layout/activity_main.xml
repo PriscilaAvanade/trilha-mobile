@@ -33,5 +33,4 @@
         android:text="Hello World!"
         android:padding="16dp"
         android:textSize="20sp" />
-
 </FrameLayout>
